@@ -29,5 +29,5 @@ I'm a Junior Flutter Developer , Passionate about building high-quality mobile a
 ---
 
 ⚡ Extra Skills *(Supportive but not primary)*  
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)   
 
