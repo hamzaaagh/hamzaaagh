@@ -14,23 +14,20 @@ I'm a Junior Flutter Developer , Passionate about building high-quality mobile a
 
 
 👨‍💻 Programming Languages  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)  
+
+---
 
 🎨 Design & Tools  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma,firebase,postman)](https://skillicons.dev)  
 
-🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+---
 
-⚡ Extra Skills  
-*(Supportive but not primary)*  
+🛠️ Tools & Platforms  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+---
+
+⚡ Extra Skills *(Supportive but not primary)*  
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+
