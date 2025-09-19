@@ -1,7 +1,7 @@
 Hi there , I am Hamza 👋
 
 
-I'm a Junior Flutter Developer , Passionate about building high-quality mobile apps with seamless user experiences.
+I'm a Flutter Developer , Passionate about building high-quality mobile apps with seamless user experiences.
 
 
 
